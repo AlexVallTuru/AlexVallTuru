@@ -37,5 +37,6 @@ Y alguna más...
 
 ### HOTELERP:
 
-![https://github.com/alexvallturu/recolifter](./alexhotelErp.jpg)
-![HotelErp](https://img.shields.io/badge/HOTELERP-232F3E?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)
+![https://github.com/alexvallturu/HotelErp-SpringBoot](./alexhotelErp.jpg)
+[![HotelErp](https://img.shields.io/badge/HOTELERP-232F3E?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/AlexVallTuru/HotelErp-SpringBoot)
+
