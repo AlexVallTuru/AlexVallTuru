@@ -42,5 +42,5 @@ Y alguna más...
 
 ### HOTELERP:
 
-![https://github.com/AlexVallTuru/GitLite-MongoDB](./gitMongoDB.png)
+![https://github.com/AlexVallTuru/GitLite-MongoDB](./gitMongoDB.PNG)
 [![GitLite](https://img.shields.io/badge/GitLite-232F3E?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/AlexVallTuru/GitLite-MongoDB)
