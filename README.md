@@ -28,6 +28,11 @@ Y alguna más...
 
 ## Proyectos Creados:
 
+### GIT LITE:
+
+![https://github.com/AlexVallTuru/GitLite-MongoDB](./bannerGit.jpg)
+[![GitLite](https://img.shields.io/badge/GitLite-232F3E?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/AlexVallTuru/GitLite-MongoDB)
+
 ### HOTELERP:
 
 ![https://github.com/alexvallturu/HotelErp-SpringBoot](./alexhotelErp.jpg)
@@ -39,8 +44,3 @@ Y alguna más...
 [![Recolifter](https://img.shields.io/badge/Recolifter-232F3E?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/AlexVallTuru/Recolifter)
 
 [![Google Play](https://img.shields.io/badge/recolifter-128C7E?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=101010)](https://play.google.com/store/apps/details?id=cat.copernic.pdiaza.recolifter&hl=es)
-
-### HOTELERP:
-
-![https://github.com/AlexVallTuru/GitLite-MongoDB](./gitMongoDB.PNG)
-[![GitLite](https://img.shields.io/badge/GitLite-232F3E?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/AlexVallTuru/GitLite-MongoDB)
