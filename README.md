@@ -1,7 +1,4 @@
-# Hola, mi nombre es Alex Vall 👋
-### Backend developer
-
-![https://github.com/AlexVall](./alex_github_profile.png)
+![https://github.com/AlexVall](./BannerGitHub01.jpg)
 
 En 2021 dejé mi trabajo en una multinacional como administrador de sistemas y empece a estudiar desarollo de aplicaciones multiplataforma. Desde entonces me he dedicado a especializarme en el desarrollo de aplicaciones focalizado en el backend.
 
