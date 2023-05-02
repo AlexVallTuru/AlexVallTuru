@@ -1,7 +1,6 @@
 ![https://github.com/AlexVall](./BannerGitHub01.jpg)
 
 En 2021 dejé mi trabajo en una multinacional como administrador de sistemas y empece a estudiar desarollo de aplicaciones multiplataforma. Desde entonces me he dedicado a especializarme en el desarrollo de aplicaciones focalizado en el backend.
-
 ![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
 ![](https://raw.githubusercontent.com/AlexVallTuru/AlexVallTuru/output/github-contribution-grid-snake.svg)
 
