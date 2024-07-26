@@ -1,6 +1,6 @@
 ![https://github.com/AlexVall](./BannerGitHub01.jpg)
 
-¡Hola! Soy Alex, un desarrollador backend especializado en Java con más de 3 años de experiencia en el desarrollo de aplicaciones web.![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
+Hello! I’m Alex, a backend developer specialized in Java with over 3 years of experience in web application development.😊 [](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
 ![](https://raw.githubusercontent.com/AlexVallTuru/AlexVallTuru/output/github-contribution-grid-snake.svg)
 
 ## Tecnologías:
