@@ -10,3 +10,4 @@ Hello! I’m Alex, a backend developer specialized in Java with over 3 years of 
 <br>[![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white&labelColor=101010)]()
 [![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=101010)]()
 
+### Algorithms [LeetCode](https://leetcode.com/u/alexvallturu/)
