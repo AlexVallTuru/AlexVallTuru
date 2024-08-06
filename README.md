@@ -1,7 +1,10 @@
 ![https://github.com/AlexVall](./BannerGitHub01.jpg)
 
 Hello! I’m Alex, a backend developer specialized in Java with over 3 years of experience in web application development.😊 
-![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
+<p align="center">
+ <img width="1000" src="github-snake.svg" alt="snake"/>
+</p>
+
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
 
