@@ -10,6 +10,10 @@ Hello! I’m Alex, a backend developer specialized in Java with over 3 years of 
 [![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=101010)]()
 
 ### Algorithms [LeetCode](https://leetcode.com/u/alexvallturu/)
+
+![](https://komarev.com/ghpvc/?username=AlexVallTuru)
+
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
