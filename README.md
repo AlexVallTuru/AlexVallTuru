@@ -1,7 +1,6 @@
 ![https://github.com/AlexVall](./BannerGitHub01.jpg)
 
 Hello! I’m Alex, a backend developer specialized in Java with over 3 years of experience in web application development.😊 
-
 ![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
@@ -11,7 +10,6 @@ Hello! I’m Alex, a backend developer specialized in Java with over 3 years of 
 [![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=101010)]()
 
 ### Algorithms [LeetCode](https://leetcode.com/u/alexvallturu/)
-
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
