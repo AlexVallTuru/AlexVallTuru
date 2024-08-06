@@ -11,7 +11,9 @@ Hello! I’m Alex, a backend developer specialized in Java with over 3 years of 
 
 ### Algorithms [LeetCode](https://leetcode.com/u/alexvallturu/)
 
-![](https://komarev.com/ghpvc/?username=AlexVallTuru)
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=AlexVallTuru&style=for-the-badge&color=orange" alt=""/>
+</div>
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
