@@ -22,13 +22,9 @@ Hello! I’m Alex, a backend developer specialized in Java with over 3 years of 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="30" height="30" /> **Algorithms**
 
-<p align="center">
- <img width="800" src="https://leetcode.card.workers.dev/AlexVallTuru?theme=light&font=baloo&extension=null&animation=false" alt="LeetCode Stats" style="background-color:#101010; padding:10px; border-radius:5px;"/>
-</p>
+## [LeetCode](https://leetcode.com/u/alexvallturu/)
 
-<p align="center" style="font-size:14px; color:white; background-color:#101010; padding:10px; border-radius:5px;">
-Check out some of the algorithms I've been solving on <a href="https://leetcode.com/u/alexvallturu/" style="color:#FFA500;">LeetCode</a>.
-</p>
+
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=AlexVallTuru&style=for-the-badge&color=orange" alt=""/>
