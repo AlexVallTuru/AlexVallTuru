@@ -5,6 +5,9 @@ Hello! I’m Alex, a backend developer specialized in Java with over 3 years of 
  <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
 
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=AlexVallTuru&style=for-the-badge&color=orange" alt=""/>
+</div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects 
 
@@ -20,15 +23,10 @@ Hello! I’m Alex, a backend developer specialized in Java with over 3 years of 
 <br>[![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white&labelColor=101010)]()
 [![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=101010)]()
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="30" height="30" /> **Algorithms**
-
-## [LeetCode](https://leetcode.com/u/alexvallturu/)
-
-
-
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlexVallTuru&style=for-the-badge&color=orange" alt=""/>
-</div>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="22" height="22" /> **Algorithms** [LeetCode](https://leetcode.com/u/alexvallturu/)
+<p align="center">
+ <img width="500" src="https://leetcode.card.workers.dev/AlexVallTuru?theme=dark&font=baloo&extension=null&animation=false" alt="LeetCode Stats" style="padding:5px; border-radius:5px;"/>
+</p>
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
