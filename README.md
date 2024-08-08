@@ -17,9 +17,19 @@ Hello! I’m Alex, a backend developer specialized in Java with over 3 years of 
  4. [Client-server game](https://github.com/AlexVallTuru/Server_JocCarreraDeCaballs)
  5. [MP3 player](https://github.com/AlexVallTuru/ReproductorMP3)
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="30" height="30" /> **Working on**
+
+- Learning [Spring Boot Microservices on Udemy](https://www.udemy.com/course/microservicios-spring-boot-cloud-docker-profesional/)
+- Developing [Payment Chain Microservices Project](https://github.com/AlexVallTuru/paymentchainparent)
+
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,python,mysql,postgres,mongodb,vscode,maven,stackoverflow,github,git,postman,docker&perline=10)](#)
+
+
+
+
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="22" height="22" /> **Algorithms** [LeetCode](https://leetcode.com/u/alexvallturu/)
