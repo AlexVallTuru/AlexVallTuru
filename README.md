@@ -20,7 +20,7 @@ Hello! I’m Alex, a backend developer specialized in Java with over 3 years of 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="30" height="30" /> **Working on**
 
-- Learning [Spring Boot Microservices on Udemy](https://www.udemy.com/course/microservicios-spring-boot-cloud-docker-profesional/)
+- Learning [Spring Boot Microservices](https://www.udemy.com/course/microservicios-spring-boot-cloud-docker-profesional/)
 - Developing [Payment Chain Microservices Project](https://github.com/AlexVallTuru/paymentchainparent)
 
 
