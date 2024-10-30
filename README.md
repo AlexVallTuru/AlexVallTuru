@@ -11,12 +11,11 @@ Hello! I’m Alex, a backend developer specialized in Java with over 3 years of 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects 
 
- 1. [Telegram Summary AI](https://github.com/AlexVallTuru/telegram-summary-ai)
- 2. [ERP Hotel](https://github.com/AlexVallTuru/HotelErp-SpringBoot)
- 3. [Recolifter](https://github.com/AlexVallTuru/Recolifter)
- 4. [Git Lite](https://github.com/AlexVallTuru/GitLite-MongoDB)
- 5. [Client-server game](https://github.com/AlexVallTuru/Server_JocCarreraDeCaballs)
- 6. [MP3 player](https://github.com/AlexVallTuru/ReproductorMP3)
+ 1. [ERP Hotel](https://github.com/AlexVallTuru/HotelErp-SpringBoot)
+ 2. [Recolifter](https://github.com/AlexVallTuru/Recolifter)
+ 3. [Git Lite](https://github.com/AlexVallTuru/GitLite-MongoDB)
+ 4. [Client-server game](https://github.com/AlexVallTuru/Server_JocCarreraDeCaballs)
+ 5. [MP3 player](https://github.com/AlexVallTuru/ReproductorMP3)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="30" height="30" /> **Working on**
 
