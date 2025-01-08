@@ -34,7 +34,7 @@ Hello! I’m Alex, a backend developer specialized in Java with over 3 years of 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="22" height="22" /> **Algorithms** [LeetCode](https://leetcode.com/u/alexvallturu/)
 <p align="center">
- <img width="500" src="https://leetcard.jacoblin.cool/alexvallturu?ext=heatmap" alt="LeetCode Stats" style="padding:5px; border-radius:5px;"/>
+ <img width="500" src="https://leetcard.jacoblin.cool/alexvallturu" alt="LeetCode Stats" style="padding:5px; border-radius:5px;"/>
 </p>
 
 <p align="center">
